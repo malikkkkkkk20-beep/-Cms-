@@ -1,1 +1,1 @@
-# -Cms-
+CMS Public School — hardened Vercel deployment\n\nFiles must remain at the deployment ROOT: index.html and vercel.json.\nVercel: Framework Other, Build Command empty, Output Directory ., Install Command empty.\nThe catch-all rewrite sends every URL to index.html so /portal, /admin, /teacher and /student do not return Vercel 404.\n
